@@ -1,0 +1,16 @@
+/home/b-double-u/Programming/C#/Production/BandcampMusicFileRename/obj/Debug/netcoreapp3.1/BandcampMusicFileRename.csprojAssemblyReference.cache
+/home/b-double-u/Programming/C#/Production/BandcampMusicFileRename/obj/Debug/netcoreapp3.1/BandcampMusicFileRename.AssemblyInfoInputs.cache
+/home/b-double-u/Programming/C#/Production/BandcampMusicFileRename/obj/Debug/netcoreapp3.1/BandcampMusicFileRename.AssemblyInfo.cs
+/home/b-double-u/Programming/C#/Production/BandcampMusicFileRename/obj/Debug/netcoreapp3.1/BandcampMusicFileRename.csproj.CoreCompileInputs.cache
+/home/b-double-u/Programming/C#/Production/BandcampMusicFileRename/bin/Debug/netcoreapp3.1/BandcampMusicFileRename
+/home/b-double-u/Programming/C#/Production/BandcampMusicFileRename/bin/Debug/netcoreapp3.1/BandcampMusicFileRename.deps.json
+/home/b-double-u/Programming/C#/Production/BandcampMusicFileRename/bin/Debug/netcoreapp3.1/BandcampMusicFileRename.runtimeconfig.json
+/home/b-double-u/Programming/C#/Production/BandcampMusicFileRename/bin/Debug/netcoreapp3.1/BandcampMusicFileRename.runtimeconfig.dev.json
+/home/b-double-u/Programming/C#/Production/BandcampMusicFileRename/bin/Debug/netcoreapp3.1/BandcampMusicFileRename.dll
+/home/b-double-u/Programming/C#/Production/BandcampMusicFileRename/bin/Debug/netcoreapp3.1/BandcampMusicFileRename.pdb
+/home/b-double-u/Programming/C#/Production/BandcampMusicFileRename/bin/Debug/netcoreapp3.1/policy.2.0.taglib-sharp.dll
+/home/b-double-u/Programming/C#/Production/BandcampMusicFileRename/bin/Debug/netcoreapp3.1/taglib-sharp.dll
+/home/b-double-u/Programming/C#/Production/BandcampMusicFileRename/obj/Debug/netcoreapp3.1/BandcampMusicFileRename.csproj.CopyComplete
+/home/b-double-u/Programming/C#/Production/BandcampMusicFileRename/obj/Debug/netcoreapp3.1/BandcampMusicFileRename.dll
+/home/b-double-u/Programming/C#/Production/BandcampMusicFileRename/obj/Debug/netcoreapp3.1/BandcampMusicFileRename.pdb
+/home/b-double-u/Programming/C#/Production/BandcampMusicFileRename/obj/Debug/netcoreapp3.1/BandcampMusicFileRename.genruntimeconfig.cache
